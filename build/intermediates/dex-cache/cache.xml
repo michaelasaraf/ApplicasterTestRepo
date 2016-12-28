@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\micha_000\Desktop\tempWorkspace\MyApplication\app\build\intermediates\exploded-aar\MyApplication\twittersearchframework\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0fb9dbd4f64554ae3be290426e01c34b1b879963">
+        <dex dex="C:\Users\micha_000\Desktop\tempWorkspace\MyApplication\app\build\intermediates\pre-dexed\debug\classes-b6ecb953daf7d3dc0765c7b60430ab21e42a134d.jar" />
+    </item>
+
+</items>
