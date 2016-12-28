@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <item name="gold" type="color">#ffd132</item>
+    <item name="blue" type="color">#35b1c5</item>
+    <item name="red" type="color">#dd4b39</item>
+    <item name="light_grey" type="color">#D3D3D3</item>
+    <item name="titleColor" type="color">#ae40f1</item>
+    <item name="white" type="color">#FFFFFF</item>
+
+    action_bar_color_new
+</resources>
